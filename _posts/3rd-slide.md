@@ -1,6 +1,7 @@
 ---
 layout: slide
-title: "Choose your fighter"
+title: "First, Pencil Art"
 ---
-![alt text] (https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfkzXrtup6aXGrBhmUrePXHTdx9OwBi2YLNa6fhjck-qIbslCa&usqp=CAU) (https://lh3.googleusercontent.com/IKbK3ezsEOtWoJqpJwrfpqcEz4eT5UdHBa8NZHHA1q8XA6LpG8iU7gPJIE6i7L8hAyaq=s85) (https://lh3.googleusercontent.com/hCfnfHfM5vIXtx3TtRacF8jc_PyUDiKkpqg-XAf2Q4xmGOlVL8u3ENXd-QFbvwgvgbgJiQ=s85)
-Pencil Art							Colorpencil Art							Digital Art
+<img src = "https://scontent-ort2-1.cdninstagram.com/v/t51.2885-15/e35/82053017_728056627722784_891892701803862190_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=4fGnL0UAd2cAX8d1Qby&oh=365df40a626cca1b821d7d05d26f3056&oe=5EFE8D20" width = 300px height = 300px /> <img src = "https://scontent-ort2-1.cdninstagram.com/v/t51.2885-15/e35/68768771_1820013208144605_6058680076407530023_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=wAYIMhfhu9cAX8NnyO5&oh=b6d0eb0612157ee3c4ecc860737a52ed&oe=5F00F62A" width = 300px /> <img src = "https://scontent-ort2-1.cdninstagram.com/v/t51.2885-15/e35/66404346_512509849506436_3342570000758185282_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=7hYnnQT2LdsAX_MUau-&oh=6b28162839a3e7554dc6cda7796945e8&oe=5EFEEE50" width = 300px />
+
+
